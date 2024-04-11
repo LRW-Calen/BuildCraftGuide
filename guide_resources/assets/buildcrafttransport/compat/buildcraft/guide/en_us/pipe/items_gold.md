@@ -5,7 +5,7 @@ Transporting items at a really fast pace to where you want them to go.
 A Gold Transport Pipe is used to quickly transport them to connecting pipes/inventories.
 </no_lore>
 
-<recipes stack="buildcrafttransport:pipe_gold_item"/>
+<recipes stack="buildcrafttransport:pipe_items_gold_colorless"/>
 
 <chapter name="Pipe Mechanics"/>
 The Gold Transport pipe gives transported items a large speed boost so they will travel around pipes faster.
@@ -17,4 +17,4 @@ If there is no where for the travelling items to go, they will be dropped out of
 Some machines can automatically output items directly into it without being fed through a powered extraction pipe.
 Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
 
-<usages stack="buildcrafttransport:pipe_gold_item"/>
+<usages stack="buildcrafttransport:pipe_items_gold_colorless"/>

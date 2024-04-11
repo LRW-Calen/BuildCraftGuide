@@ -5,7 +5,7 @@ Why would you want fluid to go to the next pipe when theres a tank right there?.
 A Clay Fluid Pipe is used to transport fluids from a pipe into connecting pipes/tanks.
 </no_lore>
 
-<recipes stack="buildcrafttransport:pipe_clay_fluid"/>
+<recipes stack="buildcrafttransport:pipe_fluids_clay_colorless"/>
 
 <chapter name="Pipe Mechanics"/>
 The Clay Fluid pipe will prioritise inserting fluid into an adjacent tank before traveling to the next pipe.
@@ -20,4 +20,4 @@ The Clay Fluid pipe transports fluids to adjacent pipes and tanks at 0.8 buckets
 Fluid pipes have an internal fluid tank which can hold 1 bucket per side and 1 Bucket in the centre.
 </no_detail>
 
-<usages stack="buildcrafttransport:pipe_clay_fluid"/>
+<usages stack="buildcrafttransport:pipe_fluids_clay_colorless"/>

@@ -5,7 +5,7 @@ Want to sort your painted items, just set a colour and a direction and pipe them
 A Daizuli Transport Pipe is used to transport send painted items it receives in one direction towards a connecting pipe/inventory.
 </no_lore>
 
-<recipes stack="buildcrafttransport:pipe_daizuli_item"/>
+<recipes stack="buildcrafttransport:pipe_items_daizuli_colorless"/>
 
 <chapter name="Pipe Mechanics"/>
 Items will travel in through the solid sides and be fed out towards the clear facing side.
@@ -19,4 +19,4 @@ Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
 The direction the painted items will travel can be changed by: Whacking the side of the pipe you want the items to go to with a wrench or with a gate.
 You can change which coloured the items are set to travel that direction by whacking the centre of the pipe with a wrench or with a gate.
 
-<usages stack="buildcrafttransport:pipe_daizuli_item"/>
+<usages stack="buildcrafttransport:pipe_items_daizuli_colorless"/>

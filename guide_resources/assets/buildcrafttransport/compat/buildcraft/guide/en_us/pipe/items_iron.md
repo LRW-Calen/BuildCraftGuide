@@ -5,7 +5,7 @@ Want to transport your items in only one direction? Just set the pipes direction
 A Iron Transport Pipe is used to transport items from a pipe in one direction towards a connecting pipe/inventory.
 </no_lore>
 
-<recipes stack="buildcrafttransport:pipe_iron_item"/>
+<recipes stack="buildcrafttransport:pipe_items_iron_colorless"/>
 
 <chapter name="Pipe Mechanics"/>
 Items will travel in through the solid sides and be fed out towards the clear facing side.
@@ -17,4 +17,4 @@ If there is no where for the travelling items to go, they will bounce back and f
 Some machines can automatically output items directly into it without being fed through a powered extraction pipe.
 Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
 
-<usages stack="buildcrafttransport:pipe_iron_item"/>
+<usages stack="buildcrafttransport:pipe_items_iron_colorless"/>

@@ -5,7 +5,7 @@ With the clay pipe, the items will never miss a chest ever again.
 A Clay Transport Pipe is used to transport items from a pipe into a connecting pipes/inventories.
 </no_lore>
 
-<recipes stack="buildcrafttransport:pipe_clay_item"/>
+<recipes stack="buildcrafttransport:pipe_items_clay_colorless"/>
 
 <chapter name="Pipe Mechanics"/>
 The Clay Transport pipe will prioritise trying to insert items into an inventory before traveling onwards.
@@ -17,4 +17,4 @@ If there is no where for the travelling items to go, they will be dropped out of
 Some machines can automatically output items directly into it without being fed through a powered extraction pipe.
 Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
 
-<usages stack="buildcrafttransport:pipe_clay_item"/>
+<usages stack="buildcrafttransport:pipe_items_clay_colorless"/>

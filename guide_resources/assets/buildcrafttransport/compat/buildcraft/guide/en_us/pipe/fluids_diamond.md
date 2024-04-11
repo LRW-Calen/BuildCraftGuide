@@ -5,7 +5,7 @@ Allowing the sorting of fluids to so they can cross pipelines? Madness.
 A Diamond Fluid Pipe is used to transport fluids from a pipe in a direction set by its filter into a connecting pipe/tank.
 </no_lore>
 
-<recipes stack="buildcrafttransport:pipe_diamond_fluid"/>
+<recipes stack="buildcrafttransport:pipe_fluids_diamond_colorless"/>
 
 <chapter name="Filtering"/>
 The Diamond Fluid pipe has each of its sides distinguished by a different colour.
@@ -25,4 +25,4 @@ The Diamond Fluid pipe transports fluids to adjacent pipes and tanks at 1.6 buck
 Fluid pipes have an internal fluid tank which can hold 1 bucket per side and 1 Bucket in the centre.
 </no_detail>
 
-<usages stack="buildcrafttransport:pipe_diamond_fluid"/>
+<usages stack="buildcrafttransport:pipe_fluids_diamond_colorless"/>

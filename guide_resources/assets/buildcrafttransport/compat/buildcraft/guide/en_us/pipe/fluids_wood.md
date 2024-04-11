@@ -5,7 +5,7 @@ Want to take fluid out and transport it somewhere else? Just give it power and w
 A Wooden Fluid Pipe is used to extract fluids from a tank when given power.
 </no_lore>
 
-<recipes stack="buildcrafttransport:pipe_wood_fluid"/>
+<recipes stack="buildcrafttransport:pipe_fluids_wood_colorless"/>
 
 <chapter name="Pipe Mechanics"/>
 When powered, It will extracted fluid and transport the fluid into any other connecting tanks/pipes.
@@ -29,4 +29,4 @@ The Wooden Fluid pipe transports fluids to adjacent pipes and tanks at 0.2 bucke
 Fluid pipes have an internal fluid tank which can hold 1 bucket per side and 1 Bucket in the centre.
 </no_detail>
 
-<usages stack="buildcrafttransport:pipe_wood_fluid"/>
+<usages stack="buildcrafttransport:pipe_fluids_wood_colorless"/>

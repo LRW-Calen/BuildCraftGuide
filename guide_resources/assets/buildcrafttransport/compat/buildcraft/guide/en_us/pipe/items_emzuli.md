@@ -5,7 +5,7 @@ Using a gate to extract certain items is the latest technical revolution in filt
 A Emzuli Transport Pipe is gate controlled pipe used to extract selected items determined by its filter from an inventory when given power.
 </no_lore>
 
-<recipes stack="buildcrafttransport:pipe_emzuli_item"/>
+<recipes stack="buildcrafttransport:pipe_items_emzuli_colorless"/>
 
 <chapter name="Pipe Mechanics"/>
 When powered, It will extract the items selected in the filter and transport them to any other connected inventories/pipes.
@@ -33,4 +33,4 @@ It can receive power from any MJ power source such as: an engine, a power adapto
 For each pulse of power it receives, it will extract items from the adjacent inventory.
 The more power a pulse has, the more items will be extracted per pulse.
 
-<usages stack="buildcrafttransport:pipe_emzuli_item"/>
+<usages stack="buildcrafttransport:pipe_items_emzuli_colorless"/>

@@ -9,15 +9,15 @@ gear "gear_gold"
 gear "gear_diamond"
 
 tool "wrench"
-tool "paintbrush"
+tool "paintbrush_clean"
 tool "marker_connector"
 tool "marker_volume"
 tool "marker_path"
 tool "list"
 tool "volume_box"
 
-block_engine "engine_wood" "{buildcraftcore:engine, 1, 0}"
-block_engine "engine_creative" "{buildcraftcore:engine, 1, 1}"
+block_engine "engine_wood" "buildcraftcore:engine_wood"
+block_engine "engine_creative" "buildcraftcore:engine_creative"
 
 trigger "basic" "always_on" "buildcraftcore:trigger.true"
 trigger "basic" "redstone_active" "buildcraft:redstone.input.active"

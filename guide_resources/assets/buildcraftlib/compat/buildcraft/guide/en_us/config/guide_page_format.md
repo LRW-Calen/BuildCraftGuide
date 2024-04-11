@@ -105,9 +105,9 @@ This tag shows all recipes for the given item stack. For example:
 ## Usages
 Similar to recipes, this shows all usages for the given item stack. For example:
 <guide_md>
-&lt;usages stack="buildcraftcore:engine"&gt;
+&lt;usages stack="buildcraftcore:engine_wood"&gt;
 </guide_md>
-<usages stack="buildcraftcore:engine" chapter_level="2"/>
+<usages stack="buildcraftcore:engine_wood" chapter_level="2"/>
 
 ## Recipes and usages
 This effectively combines the above two tags into one, for example:

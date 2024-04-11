@@ -1,3 +1,4 @@
+<chapter name="tile.engineIron.name"/>
 <lore>
 While furnace fuels are nice. With the discovery of combustible fluids, a more powerful engine is in demand to harness their power.
 </lore>
@@ -6,7 +7,7 @@ The Combustion Engine is the most powerful engine in BuildCraft and is able to u
 </no_lore>
 <chapter name="Information"/>
 To make use of these combustible fluids, they must be piped into the engine along with a coolant to keep them from over heating.
-<recipes_usages stack="buildcraftcore:engine" data="2"/>
+<recipes_usages stack="buildcraftcore:engine_iron"/>
 <chapter name="Different Fuels"/>
 With all combustible fluids, they produce different amounts of power for different amounts of time depending on which fuel is used.
 

@@ -5,7 +5,7 @@ Picking up items from the world and moving them around is the future!
 A Obsidian Transport Pipe is used to pick up in world items and transport them into a connecting pipe/inventory.
 </no_lore>
 
-<recipes stack="buildcrafttransport:pipe_obsidian_item"/>
+<recipes stack="buildcrafttransport:pipe_items_obsidian_colorless"/>
 
 <chapter name="Pipe Operation"/>
 When powered, It can pick up items in a 3x4x3 area above it.
@@ -27,4 +27,4 @@ It can receive power from any MJ power source such as: an engine, a power adapto
 For each pulse of power it receives, it will pick up items from the ground.
 The more power a pulse has, the more items will pick up per pulse.
 
-<usages stack="buildcrafttransport:pipe_obsidian_item"/>
+<usages stack="buildcrafttransport:pipe_items_obsidian_colorless"/>

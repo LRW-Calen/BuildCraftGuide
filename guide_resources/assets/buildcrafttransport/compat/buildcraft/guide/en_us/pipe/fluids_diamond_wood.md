@@ -5,7 +5,7 @@ Want to take a certain fluid out and transport it somewhere else? Just give it p
 A Wooden Diamond Fluid Pipe is used to extract selected fluids from a tank when given power.
 </no_lore>
 
-<recipes stack="buildcrafttransport:pipe_diamond_wood_fluid"/>
+<recipes stack="buildcrafttransport:pipe_fluids_diamond_wood_colorless"/>
 
 <chapter name="Pipe Mechanics"/>
 When powered, It will extract the fluid selected by the filter into any other connected tanks/pipes.
@@ -35,4 +35,4 @@ The Wooden Diamond Fluid pipe transports fluids to adjacent pipes and tanks at 1
 Fluid pipes have an internal fluid tank which can hold 1 bucket per side and 1 Bucket in the centre.
 </no_detail>
 
-<usages stack="buildcrafttransport:pipe_diamond_wood_fluid"/>
+<usages stack="buildcrafttransport:pipe_fluids_diamond_wood_colorless"/>

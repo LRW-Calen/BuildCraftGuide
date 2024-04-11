@@ -1,3 +1,4 @@
+<chapter name="tile.engineStone.name"/>
 <lore>
 After experimenting with what can be done with a basic redstone engine, you discover a way to burn furnace fuels to to actually produce a decent amount of power at a rate of 1MJ/t.
 </lore>
@@ -6,7 +7,7 @@ The Stirling engine is a more powerful engine which uses furnace fuels to genera
 </no_lore>
 <chapter name="Information"/>
 A Stirling Engines are just as efficient as a regular furnace when it comes to power production.
-<recipes_usages stack="buildcraftcore:engine" data="1"/>
+<recipes_usages stack="buildcraftcore:engine_stone"/>
 <chapter name="Engine Mechanics"/>
 BuildCraft engines have 5 temperature stages, which determines the speed the engine runs at: Blue, Green, Yellow, Red and Black.
 Stirling engines will only turn black if the engines internal power buffer fills up as the power has nowhere to go, thus the engine will overheat and needs to be wrenched to be cooled.

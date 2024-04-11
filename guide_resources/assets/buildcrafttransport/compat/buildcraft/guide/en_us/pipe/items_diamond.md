@@ -5,7 +5,7 @@ Choosing which items can travel where might be useful for your system.
 A Diamond Transport Pipe is used to transport items from a pipe in a direction set by its filter into either another adjacent pipe or inventory.
 </no_lore>
 
-<recipes stack="buildcrafttransport:pipe_diamond_item"/>
+<recipes stack="buildcrafttransport:pipe_items_diamond_colorless"/>
 
 <chapter name="Setting the Filter"/>
 The Diamond Transport Pipe has each of its sides distinguished by a different colour.
@@ -25,4 +25,4 @@ If there is no connecting pipe or the adjacent inventory is full and there is no
 Some machines can automatically output items directly into a Diamond Transport Pipe without needing to be fed through an extraction pipe.
 Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
 
-<usages stack="buildcrafttransport:pipe_diamond_item"/>
+<usages stack="buildcrafttransport:pipe_items_diamond_colorless"/>

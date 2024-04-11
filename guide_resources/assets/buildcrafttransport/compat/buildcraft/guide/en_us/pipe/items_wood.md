@@ -5,7 +5,7 @@ Want to take items out and transport them somewhere else? Just give it power and
 A Wooden Transport Pipe is used to extract items from an inventory when given power.
 </no_lore>
 
-<recipes stack="buildcrafttransport:pipe_wood_item"/>
+<recipes stack="buildcrafttransport:pipe_items_wood_colorless"/>
 
 <chapter name="Pipe Mechanics"/>
 When powered, It will extract and transport the items to any other connecting inventories/pipes.
@@ -24,4 +24,4 @@ It can receive power from any MJ power source such as: an engine, a power adapto
 For each pulse of power it receives, it will extract items from the adjacent inventory.
 The more power a pulse has, the more items will be extracted per pulse.
 
-<usages stack="buildcrafttransport:pipe_wood_item"/>
+<usages stack="buildcrafttransport:pipe_items_wood_colorless"/>

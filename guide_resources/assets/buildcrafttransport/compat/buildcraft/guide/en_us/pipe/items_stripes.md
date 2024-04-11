@@ -5,7 +5,7 @@ Imagine a pipe which can place blocks, break blocks and use blocks. This is that
 A Striped Transport Pipe is used to break blocks, place blocks use items fed through it and transport them into a connecting pipe/inventory.
 </no_lore>
 
-<recipes stack="buildcrafttransport:pipe_stripes_item"/>
+<recipes stack="buildcrafttransport:pipe_items_stripes_colorless"/>
 
 <chapter name="Pipe Operation"/>
 When powered, It will break the block directly in front of it and pass it on to the adjacent pipe or inventory.
@@ -28,4 +28,4 @@ It can receive power from any MJ power source such as: an engine, a power adapto
 For each pulse of power it receives, it will use the power it received and attempt to break the block in front of it.
 The more power a pulse has, the more power will be used to break the block.
 
-<usages stack="buildcrafttransport:pipe_stripes_item"/>
+<usages stack="buildcrafttransport:pipe_items_stripes_colorless"/>
